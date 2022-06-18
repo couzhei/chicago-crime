@@ -20,6 +20,8 @@ There are lots of places in which some improvements can be made! I even list tho
 - [x] Making a dynamic table showing results right into the notebook
 
 
+Check the notebook yourself:
+
 * <a href="https://colab.research.google.com/github/couzhei/chicago-crime/blob/master/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 * [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/couzhei/chicago-crime/HEAD)
