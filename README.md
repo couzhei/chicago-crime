@@ -5,8 +5,8 @@ This is my personal attempt into delving into an unseen dataset and come up with
 
 There are lots of places in which some improvements can be made! I even list those so as I make the time in the future, might as well check them afterwards. These are:
 
-- [x]Building a program to update the dataset using Socrata API on the fly
-- []Providing other external data sources such as temperature, holidays, etc.
+- [x] Building a program to update the dataset using Socrata API on the fly
+- [] Providing other external data sources such as temperature, holidays, etc.
 - [x]Handling the size of the dataset ~1.6GB
 - [x]Is it possible to show all the geographical points on the map?
 - [x]Working with Choropleths and GeoJSON
