@@ -13,7 +13,7 @@ There are lots of places in which some improvements can be made! I even list tho
 - [ ] Looks like Feature Engineering never ceased to be a challenge
 - [ ] Time Series Analysis and Forecasting
 - [ ] Ignoring linear models all together?
-- [x] Running boosting algorithms to GPU
+- [x] Running boosting algorithms on GPU
 - [x] Hyperparameter Tuning with optuna
 - [ ] Running boosting algorithms in PySpark
 - [ ] Which metric to choose? Type I vs. Type II errors?
