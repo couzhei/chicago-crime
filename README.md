@@ -20,8 +20,11 @@ During the course of this analysis, I have identified several areas where improv
 
 Feel free to explore the notebook yourself using the following options:
 
-- [Open in Google Colab](https://colab.research.google.com/github/couzhei/chicago-crime/blob/master/)
-- [Open in Binder](https://mybinder.org/v2/gh/couzhei/chicago-crime/HEAD)
-- [Open in Kaggle](https://www.kaggle.com/ashkanranjbar/chicago-crime)
+
+* <a href="https://colab.research.google.com/github/couzhei/chicago-crime/blob/master/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/couzhei/chicago-crime/HEAD)
+
+* <a href="https://www.kaggle.com/ashkanranjbar/chicago-crime"><img src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
 I hope you find my analysis engaging and insightful. If you have any suggestions or feedback, please don't hesitate to share. Let's continue our journey of exploring and understanding Chicago crime data together!
