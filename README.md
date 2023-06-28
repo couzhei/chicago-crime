@@ -1,29 +1,27 @@
-# Analysis of Chicago Crime
-### And coming up with a prediction :feet:
+# Analysis of Chicago Crime and Predictive Modeling
 
-This is my personal attempt into delving into an unseen dataset and come up with some analyses as well as a predictive modeling at the end. Through this work I've learned a lot which made me into saving it both as a showcase as well as a self-reference for my future self. I also provide a document as a pdf file, to make my analysis more humane and less mechanical.
+Welcome to my personal attempt at exploring an unseen dataset and conducting various analyses, culminating in a predictive modeling task. Throughout this project, I have learned a great deal, and I have saved my work both as a showcase and as a reference for my future self. To make the analysis more accessible and user-friendly, I have also provided a PDF document summarizing my findings.
 
-There are lots of places in which some improvements can be made! I even list those so as I make the time in the future, might as well check them afterwards. These are:
+During the course of this analysis, I have identified several areas where improvements can be made. I have listed these areas below and plan to address them in the future:
 
-- [x] Building a program to update the dataset using Socrata API on the fly
-- [ ] Providing other external data sources such as temperature, holidays, etc.
-- [x] Handling the size of the dataset ~1.6GB
-- [x] Is it possible to show all the geographical points on the map?
-- [x] Working with Choropleths and GeoJSON
-- [ ] Looks like Feature Engineering never ceased to be a challenge
-- [ ] Time Series Analysis and Forecasting
-- [ ] Ignoring linear models all together?
-- [x] Running boosting algorithms on GPU
-- [x] Hyperparameter Tuning with optuna
-- [ ] Running boosting algorithms in PySpark
-- [ ] Which metric to choose? Type I vs. Type II errors?
-- [x] Making a dynamic table showing results right into the notebook
+- [x] Building a program to update the dataset on the fly using the Socrata API
+- [ ] Incorporating additional external data sources such as temperature and holidays
+- [x] Handling the large size of the dataset (~1.6GB)
+- [x] Exploring the possibility of displaying all geographical points on a map
+- [x] Working with Choropleths and GeoJSON for geospatial analysis
+- [ ] Continuing to tackle the challenges of feature engineering
+- [ ] Performing time series analysis and forecasting
+- [ ] Considering non-linear models instead of relying solely on linear models
+- [x] Utilizing GPU acceleration for boosting algorithms
+- [x] Employing hyperparameter tuning with Optuna
+- [ ] Running boosting algorithms in PySpark for scalability
+- [ ] Determining the appropriate evaluation metric, considering Type I and Type II errors
+- [x] Creating a dynamic table to display results directly within the notebook
 
+Feel free to explore the notebook yourself using the following options:
 
-Check the notebook yourself:
+- [Open in Google Colab](https://colab.research.google.com/github/couzhei/chicago-crime/blob/master/)
+- [Open in Binder](https://mybinder.org/v2/gh/couzhei/chicago-crime/HEAD)
+- [Open in Kaggle](https://www.kaggle.com/ashkanranjbar/chicago-crime)
 
-* <a href="https://colab.research.google.com/github/couzhei/chicago-crime/blob/master/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/couzhei/chicago-crime/HEAD)
-
-* <a href="https://www.kaggle.com/ashkanranjbar/chicago-crime"><img src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+I hope you find my analysis engaging and insightful. If you have any suggestions or feedback, please don't hesitate to share. Let's continue our journey of exploring and understanding Chicago crime data together!
